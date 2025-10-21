@@ -1,1 +1,20 @@
+# Diretórios do IntelliJ IDEA
+.idea/
+*.iml
+out/
+target/
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Credenciais
 application.properties
+application.yml
